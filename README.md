@@ -1,1 +1,6 @@
-I have implemented this project by watching the video from the udemy course "Make a Spotify Clone from Scratch: Javascript, PHP and MySQL" by Reece Kenney.
+Core Functionalities:
+1. Create a Playlist
+2. Update Playlist
+3. Delete Playlist
+4. Search Song
+5. Playing Audio
